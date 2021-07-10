@@ -12,6 +12,9 @@
  
 ## About me
 
+My main goal is to become a mobile developer, I'm currently learning Kotlin and Pyton, I also study front-end concepts, to improve my codes.
+In the future I want to learn Flutter to develop for Android and IOS.
+
 <a href="https://github.com/CarlosAmorim94">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmorim94" />
 </a>
