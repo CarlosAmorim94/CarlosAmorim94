@@ -1,26 +1,29 @@
-# Welcome!
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world! I'm Carlos Amorim!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+
+📱 I want to be a Mobile Developer!
+
+🇧🇷 I’m from Brazil. 
+
+📚 I’m currently learning everything abouttechnology and software development.
+
+🖥️ 2021 Goals: create a new project and find a new job.
 
  
-
-## I'm Carlos Amorim!
-
- 
-
-:computer: I'm Front-End Developer!
-
-:house_with_garden: I’m from Brazil. 
-
-:books: I’m currently learning everything.
-
-:outbox_tray: 2021 Goals: create a new project and find a new job.
-
- 
-
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CarlosAmorim94)](https://github.com/CarlosAmorim94)
+<a href="https://github.com/CarlosAmorim94">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmorim94" />
+</a>
+<a href="https://github.com/CarlosAmorim94">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosAmorim94&show_icons=true&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-amorim-9a9a8aa2/)](https://www.linkedin.com/in/carlos-amorim-9a9a8aa2/)
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/carlos-amorim-9a9a8aa2) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/CarlosAmorim94) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:carlos.av.amorim@gmail.com)
 
 
 - Thanks for visiting.
