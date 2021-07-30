@@ -12,18 +12,20 @@
  
 ## About me
 
-My main goal is to become a mobile developer, I'm currently learning Kotlin and Pyton, I also study front-end concepts, to improve my codes.
+My main goal is to become a Full Stack developer, I'm currently learning web development, I also study Python, to improve my codes.
 In the future I want to learn Flutter to develop for Android and IOS.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="100" height="40">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="HTML" width="100" height="40">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="HTML" width="100" height="40">
+
 
 <a href="https://github.com/CarlosAmorim94">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmorim94" />
 </a>
 <a href="https://github.com/CarlosAmorim94">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosAmorim94&show_icons=true&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
+ 
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
 
 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/carlos-amorim-9a9a8aa2) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/CarlosAmorim94) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:carlos.av.amorim@gmail.com)
