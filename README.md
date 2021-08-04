@@ -3,9 +3,9 @@
 
 🖥️ I want to be a Full Stack Developer!
 
-🇧🇷 I’m from Brazil. 
+🇧🇷 I’m from Botucatu-SP, Brazil. 
 
-📚 I’m currently learning everything abouttechnology and software development.
+📚 I’m currently learning everything about technology and software development.
 
 🖥️ 2021 Goals: create a new project and find a new job.
 
@@ -15,7 +15,7 @@
 My main goal is to become a Full Stack developer, I'm currently learning web development, I also study Python, to improve my codes.
 In the future I want to learn Flutter to develop for Android and IOS.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="130" height="35">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="130" height="35">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON" width="130" height="35"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP" width="130" height="35"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLITE" width="130" height="35">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="130" height="35">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="130" height="35"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP" width="130" height="35"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON" width="130" height="35"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLITE" width="130" height="35">
 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="EXCEL" width="130" height="35"> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PPT" width="130" height="35"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="WORD" width="130" height="35"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=whitee" alt="Windows" width="130" height="35"> 
  
