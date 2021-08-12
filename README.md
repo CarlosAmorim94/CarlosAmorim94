@@ -37,3 +37,5 @@ In the future I want to learn Flutter to develop for Android and IOS.
 - Thanks for visiting.
 
 - Enjoy it!! o/
+ 
+ Icons by: https://icons8.com.br/
