@@ -3,7 +3,7 @@
 
 🖥️ I want to be a Full Stack Developer!
 
-🇧🇷 I’m from Botucatu-SP, Brazil. 
+🗺️ I’m from Botucatu-SP, Brazil. 
 
 📚 I’m currently learning everything about technology and software development.
 
