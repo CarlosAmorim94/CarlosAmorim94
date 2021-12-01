@@ -1,13 +1,13 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world! I'm Carlos Amorim!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-🖥️ I want to be a Front-End Developer!
+🖥️ Front-End Developer!
 
 🗺️ I’m from Botucatu-SP, Brazil. 
 
 📚 I’m currently learning everything about technology and software development.
 
-🖥️ 2021 Goals: create a new project and find a new job.
+🖥️ 2021 Goals: find a new job and learning about Full-stack.
 
  
 ## About me
