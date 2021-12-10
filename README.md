@@ -19,10 +19,10 @@ In the future I want to learn Flutter to develop for Android and IOS.
  
 
 <a href="https://github.com/CarlosAmorim94">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmorim94" />
+  <img widht="20%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmorim94" />
+  <img widht="70%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosAmorim94&show_icons=true&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
-<a href="https://github.com/CarlosAmorim94">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosAmorim94&show_icons=true&line_height=27" alt="Shubhamdeep's github stats"/>
+
  
  # Another basic skills:
 
