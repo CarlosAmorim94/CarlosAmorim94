@@ -7,26 +7,28 @@
 
 📚 I’m currently learning everything about technology and software development.
 
-🖥️ 2021 Goals: find a new job and learning about Full-stack.
+🖥️ 2022 Goals: find a new job and learning about Full-stack.
 
  
 ## About me
 
-My main goal is to become a Front-end developer, I'm currently learning web development, I also study Python, to improve my codes.
-In the future I want to learn Flutter to develop for Android and IOS.
+I'm currently studying Systems Analysis and Development 😄 I consider myself agile, creative and consistent in learning and adapting to any change, ready to overcome any challenge! I'm always told that it's easy for me to make new friends and deal with people ☺️ If I could define myself in 3 words, it would certainly be: optimistic, creative and hardworking!
+I see myself in the near future as a Senior Full-Stack Developer! I'm struggling for this, always creating projects and studying the technologies a lot:
 
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
  
 
-<a href="https://github.com/CarlosAmorim94">
-  <img widht="20%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmorim94" />
-  <img widht="70%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosAmorim94&show_icons=true&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
+<div align="center">
+  <a href="https://github.com/CarlosAmorim94">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAmorim94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmorim94&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
  
  # Another basic skills:
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="EXCEL" width="130" height="35"> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PPT" width="130" height="35"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="WORD" width="130" height="35"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=whitee" alt="Windows" width="130" height="35">
+<img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> <img src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png"/> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> <img src="https://img.icons8.com/color/48/000000/linux-mint.png"/>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
