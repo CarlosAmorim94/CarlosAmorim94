@@ -23,8 +23,8 @@ I see myself in the near future as a Senior Full-Stack Developer! I'm struggling
 
 
 <div align="center" >
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=CarlosAmorim94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="420px" margin="3px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmorim94&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=CarlosAmorim94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="42%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmorim94&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  ## Another basic skills:
