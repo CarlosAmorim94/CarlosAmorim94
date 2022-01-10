@@ -33,7 +33,7 @@ I see myself in the near future as a Senior Full-Stack Developer! I'm struggling
  
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-[<img src="https://img.icons8.com/office/32/000000/whatsapp--v3.png" alt="Whatsapp logo" >](https://wa.me/5514998057785?text=Hi%21+I+see+your+profile+on+github)   [<img src="https://img.icons8.com/color/35/000000/telegram-app--v5.png" alt="Telegram logo" >](https://t.me/CarlosAmorim94)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/carlos-amorim-9a9a8aa2)   [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/CarlosAmorim94)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:carlos.av.amorim@gmail.com)
+[<img src="https://img.icons8.com/office/32/000000/whatsapp--v3.png" alt="Whatsapp logo" >](https://wa.me/5514998057785?text=Hi%21+I+see+your+profile+on+github)   [<img src="https://img.icons8.com/color/35/000000/telegram-app--v5.png" alt="Telegram logo" >](https://t.me/CarlosAmorim94)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/carlosamorim94/)   [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/CarlosAmorim94)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:carlos.av.amorim@gmail.com)
 
 ## Total visits on my profile :detective:
 
