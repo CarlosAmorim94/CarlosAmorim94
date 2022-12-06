@@ -1,13 +1,11 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world! I'm Carlos Amorim!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-🖥️ Front-End Developer!
+🖥️ Front-End Developer at Xgrow - Learning Experience !
 
 🗺️ I’m from Botucatu-SP, Brazil. 
 
 📚 I’m currently learning everything about technology and software development.
-
-🖥️ 2022 Goals: find a new job and learning about Full-stack.
 
  
 ## About me
