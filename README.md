@@ -7,6 +7,8 @@
 
 📚 I’m currently learning everything about technology and software development.
 
+Note: More active on bitbucket than github
+
  
 ## About me
 
