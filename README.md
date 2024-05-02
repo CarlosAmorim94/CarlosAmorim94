@@ -1,7 +1,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world! I'm Carlos Amorim!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-🖥️ Front-End Developer at Xgrow - Learning Experience !
+🖥️ Front-End Developer
 
 🗺️ I’m from Botucatu-SP, Brazil. 
 
